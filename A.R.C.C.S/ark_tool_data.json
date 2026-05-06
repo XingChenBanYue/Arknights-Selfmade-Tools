@@ -1,0 +1,57 @@
+{
+  "stage_categories": [
+    {
+      "name": "主线",
+      "color": "#7aa2f7",
+      "folded": false,
+      "excluded": false
+    },
+    {
+      "name": "Side Story",
+      "color": "#ff0000",
+      "folded": false,
+      "excluded": false
+    },
+    {
+      "name": "全息作战矩阵",
+      "color": "#7aa2f7",
+      "folded": false,
+      "excluded": false
+    }
+  ],
+  "condition_categories": [
+    {
+      "name": "干员类",
+      "color": "#f7aa7a",
+      "folded": false,
+      "excluded": false,
+      "min_count": 0,
+      "max_count": 10
+    },
+    {
+      "name": "时间类",
+      "color": "#f7aa7a",
+      "folded": false,
+      "excluded": false,
+      "min_count": 0,
+      "max_count": 10
+    }
+  ],
+  "stages": [
+    {
+      "name": "PA-8 一千年后",
+      "category": "Side Story",
+      "color": "#ff0000",
+      "locked": false,
+      "excluded": false
+    },
+    {
+      "name": "15-20 得以重回",
+      "category": "主线",
+      "color": "#00ffff",
+      "locked": false,
+      "excluded": false
+    }
+  ],
+  "conditions": []
+}
